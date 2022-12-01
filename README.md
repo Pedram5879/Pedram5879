@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 const Me = {
     Position : "open to work",
     Programming Languages : [javascript😎, c++☕, C🤓],
-    Frontend Developer : [React🐱‍👤, ],
+    Frontend Developer : [React🐱‍👤],
     Education👨🏻‍🎓 : BS.c Computer Engineering at Ferdowsi University of Mashhad,
     Learning🌱' = [
         React,
