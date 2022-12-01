@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+const Me = {
+    Position : "open to work",
+    Programming Languages : [javascript😎, Java☕, C🤓],
+    Frontend Developer : [React🐱‍👤, ],
+    Education👨🏻‍🎓 : BS.c Computer Engineering at Ferdowsi University of Mashhad🏫,
+    Learning🌱' = [
+        React,
+        Type script,
+    ],
+
+}
+
+
+
+
