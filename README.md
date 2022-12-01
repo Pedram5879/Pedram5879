@@ -38,7 +38,7 @@ const Me = {
     Position : "open to work",
     Programming Languages : [javascript😎, c++☕, C🤓],
     Frontend Developer : [React🐱‍👤],
-    Education👨🏻‍🎓 : BS.c Computer Engineering at Ferdowsi University of Mashhad,
+    Education👨🏻‍🎓 : "BS.c Computer Engineering at Ferdowsi University of Mashhad",
     Learning🌱' = [
         React,
         Type Script,
