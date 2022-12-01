@@ -44,7 +44,7 @@ const Me = {
         Type Script,
     ],
 
-}
+};
 ```
 
 <li><a href="https://zil.ink/dashboard/pedram5879">links</a></li>
