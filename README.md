@@ -35,7 +35,6 @@ Here are some ideas to get you started:
 ```js
 
 const Me = {
-    Position : "open to work",
     Programming Languages : [javascript😎, c++☕, C🤓],
     Frontend Developer : [React🐱‍👤],
     Education👨🏻‍🎓 : "BS.c Computer Engineering at Ferdowsi University of Mashhad",
