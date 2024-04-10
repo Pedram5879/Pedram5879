@@ -40,7 +40,6 @@ const Me = {
     Education👨🏻‍🎓 : "BS.c Computer Engineering at Ferdowsi University of Mashhad",
     Learning🌱' = [
         React,
-        Type Script,
     ],
 
 };
